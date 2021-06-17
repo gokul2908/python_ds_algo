@@ -24,5 +24,5 @@ def anagram(word1,word2):
 
     return True
 
-print(anagram("gokul kumar","ramuk lukog"))
+print(anagram("gokul","lukog"))
 
